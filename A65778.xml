@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>M. Whitebread's contemplations during his confinement in Newgate</title>
+            <author>Whitbread, Thomas, 1618-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65778</idno>
+            <idno type="STC">Wing W1815</idno>
+            <idno type="STC">ESTC R39757</idno>
+            <idno type="EEBO-CITATION">18482981</idno>
+            <idno type="OCLC">ocm 18482981</idno>
+            <idno type="VID">107844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107844)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1644:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>M. Whitebread's contemplations during his confinement in Newgate</title>
+                  <author>Whitbread, Thomas, 1618-1679.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to Whitbread by Wing and NUC pre-1956 imprints.</note>
+                  <note>"By a copy of his own writing."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Poetry.</term>
+               <term>Persecution --  England --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:107844:1"/>
+            <head>M. Whitebread‘s CONTEMPLATIONS During his Confinement in NEWGATE.</head>
+            <div type="poem">
+               <head>To a Soul in the Body.</head>
+               <lg>
+                  <l>POor Soul, what mak'ſt thou here? is this the place,</l>
+                  <l>Thou wert deſign'd for? ſure the Noble Race</l>
+                  <l>Thou art deſcended from, may well require</l>
+                  <l>Better accommodation; and aſpire,</l>
+                  <l>To greater matters, than immur'd to ſtay,</l>
+                  <l>Under a mouldy roof of dirt and clay:</l>
+                  <l>Where thy employment's like to be,</l>
+                  <l>To hear, to ſmell, to touch, to taſt, to ſee,</l>
+                  <l>Things wholly ſuccouring of fleſh and blood;</l>
+                  <l>And are with Beaſts, and Birds, a common good.</l>
+                  <l>Mean while thine own good parts are down'd and loſt,</l>
+                  <l>To ſerve the Humours of a peeviſh Hoſt.</l>
+                  <l>Nor ſhalt thou pleaſe him long with all thy care,</l>
+                  <l>And diligence. For e're thou art aware;</l>
+                  <l>He'le change into a thouſand forms and ſhapes,</l>
+                  <l>And put as many humours on; as Apes</l>
+                  <l>Make mouths and mops: now he's for this, now that,</l>
+                  <l>Nor ſhalt thou eas'ly know, what he'le be at</l>
+                  <l>Next moment, or next hour. One day he's well,</l>
+                  <l>Another ſick to death; ſo ſierce, ſo fell:</l>
+                  <l>That nothing can content him. Nothings right:</l>
+                  <l>He quarrels with the day, rails at the Night.</l>
+                  <l>As if they were the Authors of his ill,</l>
+                  <l>And bound to come, and go at his fond will.</l>
+                  <l>There's nothing now to do, but weep and mourn,</l>
+                  <l>As if he were a creature quite forelorn;</l>
+                  <l>Deſtin'd without Reprive for Grave or Urn:</l>
+                  <l>But poſſibly e're long the Tide may turn.</l>
+                  <l>And he from diſcontented, ſick, and ſad;</l>
+                  <l>May pleaſant be, Joviall and half mad.</l>
+                  <l>'Tis as the humour flows, now cold, now hot,</l>
+                  <l>Now moiſt, now dry. But ſtill 'twill be thy lot</l>
+                  <l>To wait upon him, and in all his wild</l>
+                  <l>Exotick moods, to tend him as a child:</l>
+                  <l>Careſſing, ſoothing, uſing all the skill,</l>
+                  <l>A Nurſe employs to keep her Baby ſtill.</l>
+               </lg>
+               <lg>
+                  <l>It moves my heart to pity, when I ſee</l>
+                  <l>Thy underſtanding, Will, and Memory,</l>
+                  <l>(Parts fit to place thee on a Regal Throne)</l>
+                  <l>Thus undervalu'd; and thou ſcarce to own</l>
+                  <l>Thy great misfortune: but ſeem'ſt to rejoyce</l>
+                  <l>As in a thing contriv'd by thy own choice.</l>
+               </lg>
+               <lg>
+                  <l>But look to't well, for truſt me time will come,</l>
+                  <l>When he for all thy kindneſs, and in room</l>
+                  <l>Of all thy ſervice, will ſerve thee a trick,</l>
+                  <l>And leave thee nothing but his bones to pick,</l>
+                  <l>From whence thou ſcarce ſhal't gather, wherewithall</l>
+                  <l>To ſatisfy his debts; which then will fall</l>
+                  <l>To thy lot to diſcharge, as having bin</l>
+                  <l>His conſtant partner, and his next of kin.</l>
+                  <l>Nor ſhall he ſo eſcape. For he muſt know</l>
+                  <l>That though he ſculks in Grots, and Caves, as low</l>
+                  <l>As Earth's deep center, 'twill him not avail,</l>
+                  <l>He muſt appear without mainprize or bail.</l>
+                  <l>And anſwer to th' Action, which will be</l>
+                  <l>A deſp'rate bus'neſs both for him and thee,</l>
+                  <l>For as y'are jointly bound Body and Soul;</l>
+                  <l>You both are anſwerable for the whole.</l>
+               </lg>
+               <lg>
+                  <l>Rouze up thy ſelf then, and without delay,</l>
+                  <l>Shew him his danger, teach him to obey</l>
+                  <l>Thy juſt Commands: Make uſe of ſpur and rain,</l>
+                  <l>And if thou doſt perceive, that he again</l>
+                  <l>Would break looſe from thee, hold a ſtricter hand;</l>
+                  <l>Rebuke, perſwade: But quit not thy Command.</l>
+                  <l>And above all remember thy deſcent,</l>
+                  <l>Make him too capable of the intent,</l>
+                  <l>Of his, and thy great Maker, to beſtow</l>
+                  <l>Much nobler things, and greater, than this low</l>
+                  <l>And abject State of Life, you now do lead,</l>
+                  <l>Can promiſe. Tell him, he muſt learn to reade</l>
+                  <l>His better fortune in the Starry Globe</l>
+                  <l>Of Heaven, where lie a rich and precious Robe,</l>
+                  <l>Of Glory ſhall receive; if he prove true</l>
+                  <l>To God, and Conſcience, to himſelf and you.</l>
+                  <l>Deal with him ſo, that he oft caſts an eye</l>
+                  <l>Up to that ſeat of Bliſs, where he'le deſcry,</l>
+                  <l>Things worthy of his hopes, and find deſire</l>
+                  <l>And love enflam'd with a celeſtial fire:</l>
+                  <l>So that when e're he will, or muſt return,</l>
+                  <l>To treat again with Earth, hele kick and ſpurn,</l>
+                  <l>And what he lately did ſo much admire,</l>
+                  <l>And dote upon, and ſoon again retire</l>
+                  <l>To thoſe great thoughts, wherewith Heaven did him treat,</l>
+                  <l>And oft with tears and amorous ſighs repeat:</l>
+                  <l>Baſe World, vild Earth, how I thee do deſpiſe!</l>
+                  <l>When up to Heavens bright Sphere, I caſt mine eyes.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>SOLIT<g ref="char:V">Ʋ</g>DE.</head>
+               <lg>
+                  <l>Dear Solitude, 'tis thou I ſee alone,</l>
+                  <l>Reſtor'ſt Men to their wits, to thee we own</l>
+                  <l>Our ſelves deep debtors. We had half forgot,</l>
+                  <l>That we were men, till 'twas our happy lot</l>
+                  <l>To light on thee. Now free from thoſe fond toys</l>
+                  <l>That everlaſting buſtle, endleſs noiſe,</l>
+                  <l>The baſy World engag'd us in we finde,</l>
+                  <l>W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> had ſomething elſe to do, ſomething to minde,</l>
+                  <l>Imports us more, than we as yet perchance,</l>
+                  <l>Had Thought well on: Our Life was not a trance?</l>
+                  <l>A waking dream, a ſpice of the diſeaſe</l>
+                  <l>On Brain-ſick Lunaticks is wont to ſeize:</l>
+                  <l>Flattering their fancies, cauſing them to take</l>
+                  <l>Themſelves for Kings, Queens, Princes, and to make</l>
+                  <l>Their brags and boaſts of ſtrange and mighty matters;</l>
+                  <l>Swearing they're richly clad, though all in tatters:</l>
+                  <l>But rags are Robes with them, Joyn'd ſtools a Throne;</l>
+                  <l>Sticks Scepters are, and ſcarce half caps a Crown.</l>
+                  <l>Their wooden di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h pure Gold; their bed of ſtraw</l>
+                  <l>Embroider'd Velvet: All they ſay's a Law.</l>
+               </lg>
+               <lg>
+                  <l>Ay! this indeed is downright <hi>Bedlam</hi> mad,</l>
+                  <l>'Tis very true, and if perchance y'had had</l>
+                  <l>The time and leaſure Solitude affords;</l>
+                  <l>Long ſince y'had found the deeds (if not the words)</l>
+                  <l>Of moſt Mens Lives, to ſpeak them little leſs;</l>
+                  <l>Than thoſe now mention'd, and their Happineſs</l>
+                  <l>As little real, with this onely difference,</l>
+                  <l>That theſe in number thoſe exceed, and hence</l>
+                  <l>By vote 'tis carry'd; theſe are wiſe and thoſe</l>
+                  <l>Fit gueſts for <hi>Bedlam</hi>: though (under the Roſe)</l>
+                  <l>Theſe quite as Mad are in another kind,</l>
+                  <l>As viewing but what paſſes, you ſhall finde.</l>
+                  <l>Mark their deſigns, pretentions, purſuits, Aims,</l>
+                  <l>At ſuch mean things, as only bear the Names</l>
+                  <l>Of reall goods; but are no more the things,</l>
+                  <l>They go for, than the Players Acting Kings,</l>
+                  <l>Are reall Soveraigns: 'Tis from fancy that,</l>
+                  <l>Moſt things their value take. From whence or what,</l>
+                  <l>Is Gold, that it ſo great eſteem ſhould have?</l>
+                  <l>'Tis but a yellow Clay. Yet Lord and ſlave,</l>
+                  <l>To it muſt homage give, and half adore:</l>
+                  <l>And he that has thereof the greateſt ſtore,</l>
+                  <l>Is held the greateſt, the beſt Man; whereas</l>
+                  <l>He's ſtill but duſt, and Gold but di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as 'twas.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>JEWELLS.</head>
+               <lg>
+                  <l>What Pibbles that? Why don't you ſee or have,</l>
+                  <l>Its Sun-bright beams dazel'd your ſight? then ſave</l>
+                  <l>Your pains and eyes, and look elſe where: But know</l>
+                  <l>To this a Prince his Liberty may owe.</l>
+                  <l>Sweet Sir, your pardon, but pray is it not</l>
+                  <l>A Pibble ſtill? or has it lately got</l>
+                  <l>Some ſtrange Enchanting Virtue? to cut glaſs</l>
+                  <l>Is that alone for which it famous was,</l>
+                  <l>If that be all, though it ſhine ne're ſo bright,</l>
+                  <l>Y'are rul'd by fancy, not by reaſons Light.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>B<g ref="char:V">Ʋ</g>ILDINGS.</head>
+               <lg>
+                  <l>See yonder Noble Structure, which e're while</l>
+                  <l>A <hi>Cha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</hi> was, now 'tis a ſtately pile;</l>
+                  <l>Where <hi>Greece,</hi> where <hi>Rome,</hi> where <hi>England,</hi> all its Art</l>
+                  <l>Engag'd has, beſides kind Natures part</l>
+                  <l>Of choice materials; Marble, beſt Free-ſtone,</l>
+                  <l>And things great and rich, as you will own,</l>
+                  <l>But that's of all, the leaſt conſiderable:</l>
+                  <l>The Art, Contrivance, Symmetry is able,</l>
+                  <l>To raiſe wonder in the very ſtones. And</l>
+                  <l>Pray good Sir ſtop a little, hold your hand.</l>
+                  <l>After this fair recitall, after all</l>
+                  <l>You have or can ſay, touching this you call</l>
+                  <l>A ſtately Noble Structure is't not ſtill,</l>
+                  <l>A heap of Stones and Morter? by the skill</l>
+                  <l>Of cunning Workman cimented together;</l>
+                  <l>T'enhance the grand deſign, 'gainſt Wind and Weather.</l>
+                  <l>For there are thoſe, who will not ſtick to ſay,</l>
+                  <l>A cloſe thatch'd Roof, and Wall well dawb'd with clay,</l>
+                  <l>Your firſt deſign, and chief end will fulfill</l>
+                  <l>As well, and as compleatly, as all the still,</l>
+                  <l>Which crafty Artiſt doth employ intending,</l>
+                  <l>T'enrich himſelf by your vain needleſſe ſpending.</l>
+                  <l>Leaving't in doubt too, where the Italian curſe</l>
+                  <l>Shall fall upon your head, or empty purſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To Death.</head>
+               <lg>
+                  <l>DEath, th'art wellcome. For though thou art a Thief,</l>
+                  <l>inſtead of Robbing, I expect relief,</l>
+                  <l>From thy kind hand, 'tis long ſince I have found.</l>
+                  <l>Thou ſteal'ſt upon me and doſt ſtill get ground.</l>
+                  <l>So that I ſee, there's little hopes by flight,</l>
+                  <l>T' avoid thy purſuit. And although I might,</l>
+                  <l>There is ſo little comfort in the way,</l>
+                  <l>I ſtill muſt keep, that I had rather ſtay</l>
+                  <l>Expecting thy laſt ſtroke; than thus remain</l>
+                  <l>In ſuch a dying Life, where ſuch a train</l>
+                  <l>Of miſeries, ſuch cares, wants, griefs ſucceed,</l>
+                  <l>The one the other dayly; that 'twere need,</l>
+                  <l>To have a heart of Braſs, and Breaſt of ſteel,</l>
+                  <l>To bear the cruel brunt. And now the Wheel</l>
+                  <l>Is ſet a running, 'twill ſcarce ſtop its courſe;</l>
+                  <l>'Till it has hurri'd all from bad, to worſe.</l>
+               </lg>
+               <lg>
+                  <l>So 'tis, and ſo 'twill be. But, pray, good Death,</l>
+                  <l>Lets make a friendly truce, before my breath</l>
+                  <l>Has quite forſaken me. I find, I have</l>
+                  <l>A little work to do; for which I crave</l>
+                  <l>Some ſhort forbearance. It cannot be long</l>
+                  <l>My cares, my years, now coming in full throng,</l>
+                  <l>Upon my drooping Soul. And firſt of all,</l>
+                  <l>Proviſion ſhould be made againſt the call</l>
+                  <l>Of the Almighty; for a ſtrick account</l>
+                  <l>Of thoughts, words, actions, which muſt needs amount</l>
+                  <l>To a vaſt ſumme: O, what a fearfull charge</l>
+                  <l>Will then be brought againſt me! not at large.</l>
+                  <l>But where each minute thing, each circumſtance</l>
+                  <l>Shall be produc'd, and what e're may enhance</l>
+                  <l>Sinns direfull malice, Mercy then no more</l>
+                  <l>Shall act her part: but juſtice on the ſcore</l>
+                  <l>Of things irrevocably done and paſt,</l>
+                  <l>Shall give the Sentence: and we then our laſt,</l>
+                  <l>And endleſs doom receive. Now this is that,</l>
+                  <l>I crave ſome reſpit for. For though't be what</l>
+                  <l>I have long labour'd in, ſtriving to frame</l>
+                  <l>My Conſcience ſo, that it might without blame</l>
+                  <l>Appear before his eyes, who ſearches all</l>
+                  <l>The cloſe Receſſes of mans Heart: yet ſhall</l>
+                  <l>I gladly once more make a ſtrict review</l>
+                  <l>Of what is paſt; and in my Soul renew</l>
+                  <l>That juſt Reſentment; which at other times</l>
+                  <l>I ſeem t'have entertain'd againſt my crimes;</l>
+                  <l>Deteſting them, and willing that my blood,</l>
+                  <l>Joyn'd, and in union with that precious flood;</l>
+                  <l>Which from my Saviours ſacred wounds did flow,</l>
+                  <l>May waſh my ſinful Soul, and cleanſe it ſo,</l>
+                  <l>That when before my great Judge I appear,</l>
+                  <l>Well manag'd Confidence may vanquiſh fear.</l>
+                  <l>This is what I do project. But pray ſtay,</l>
+                  <l>Take not my firſt word. For perchance I may</l>
+                  <l>Repent me, and on ſecond better thought</l>
+                  <l>Reſolve, forbearance may be too dear bought.</l>
+                  <l>For as there's nothing I ſo much deteſt,</l>
+                  <l>As ſin: a thouſand fears would me inveſt;</l>
+                  <l>Leaſt ſo unhappy I again ſhould be,</l>
+                  <l>As to offend my great good God. I ſee</l>
+                  <l>The dangers are innumerable; The Nets</l>
+                  <l>Are ſpred on every ſide: and he that gets</l>
+                  <l>Well off from ſome, or moſt, is not ſecure:</l>
+                  <l>Some crafty Syren him may yet allure,</l>
+                  <l>And caſt upon ſome deſp'rat Shelve or Rock:</l>
+                  <l>Which to avoid, may ask a greater ſtock</l>
+                  <l>Of ſtrength, and foreſight, than my weakneſs dares</l>
+                  <l>Preſume upon. Hence day, and night, ſuch fears,</l>
+                  <l>And frights my trembling Soul, muſt needs oppreſs:</l>
+                  <l>That life cannot be held a Happineſs.</l>
+                  <l>Then wellcome Death, by thee I hope t'obtain</l>
+                  <l>A better Being, and ſecure remain</l>
+                  <l>From Sinn; that greateſt, fouleſt, blackeſt Devil</l>
+                  <l>The ſubt'leſt Foe, the only dreadful evil:</l>
+                  <l>Which can a generous Soul befall. The caſe</l>
+                  <l>Thus then reſolved is: that though the face</l>
+                  <l>Of Death hath ſomething harſh in't, yet the harms</l>
+                  <l>Life ſtill expos'd to, and the killing charmes</l>
+                  <l>Of Sinn ſo numerous are; that to eſchew</l>
+                  <l>Such endleſs Hazards, 'tis beſt to renew</l>
+                  <l>Our firſt Addreſs, and chuſe without Reply</l>
+                  <l>Rather to dye, to live; than live to dye.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year, 1679. By a Copy of his own Writing.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
